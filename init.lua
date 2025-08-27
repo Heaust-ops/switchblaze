@@ -173,3 +173,5 @@ function M.setup(opts)
     end, config.map_opts or {})
   end
 end
+
+return M
