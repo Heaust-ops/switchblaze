@@ -18,7 +18,9 @@ at which point you can then type that number or
 
 https://github.com/user-attachments/assets/1f3f3006-cf4b-4962-9e38-6e26a187b262
 
-navigate your cursor and hit enter
+navigate your cursor and hit enter.
+
+Or use can hit `esc` or `q` to get rid of the menu.
 
 ## LazyVim install
 
