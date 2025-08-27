@@ -1,5 +1,8 @@
 # Switchblaze - a shorthand for switching file buffers
 
+<img width="1426" height="734" alt="image" src="https://github.com/user-attachments/assets/ad2e949e-5517-4eab-98d2-491c85731a75" />
+
+
 - [how to use](#how-to-use)
 - [installation](#lazyvim-install)
 - [config](#config)
